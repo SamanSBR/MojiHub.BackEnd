@@ -1,0 +1,6 @@
+@MojiHub.BackEnd_HostAddress = http://localhost:5091
+
+GET {{MojiHub.BackEnd_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
